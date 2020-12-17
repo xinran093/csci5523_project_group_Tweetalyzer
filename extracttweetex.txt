@@ -1,0 +1,1 @@
+snscrape twitter-search “#UMN since:2019-09-01 until:2020-03-01” > umnb4covid.txt
